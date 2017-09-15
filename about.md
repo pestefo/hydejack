@@ -11,7 +11,7 @@ PhD Student at [Computer Science Department](http://dcc.uchile.cl) of the [Facul
 
 
 ### Research interests
-![400x200](/assets/img/world-cloud.png "World Cloud")
+![400x200](http://pestefo.github.io/assets/img/world-cloud.png "World Cloud")
 
 ### Publications
 
