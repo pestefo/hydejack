@@ -1,3 +1,18 @@
+# Notes
+
+## How to run in localhost
+
+```bash
+$ bundle exec jekyll serve
+```
+
+
+
+
+
+---
+---
+
 ~~~
  __  __                __                                     __
 /\ \/\ \              /\ \             __                    /\ \
