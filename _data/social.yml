@@ -191,6 +191,10 @@
     name: Foursquare
     icon: icon-foursquare
     prepend: "https://foursquare.com/user/"
+  researchgate:
+    name: Research Gate
+    icon: icon-researchgate
+    prepend: "https://www.researchgate.net/profile/"
   yelp:
     name: Yelp
     icon: icon-yelp

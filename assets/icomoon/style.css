@@ -228,6 +228,9 @@
 .icon-foursquare:before {
   content: "\ead6";
 }
+/*.icon-researchgate:before {
+  content: "\eaf6";
+}*/
 .icon-yelp:before {
   content: "\ead7";
 }

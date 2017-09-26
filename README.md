@@ -6,7 +6,15 @@
 $ bundle exec jekyll serve
 ```
 
+## images
 
+Images has to be placed in `assets/img/` and references like this:
+```Markdown
+<!-- For an image in a post -->
+![image alt text]({{ site.url }}/assets/posts/2017-09-26-summary-survey-results /img.png)
+<!-- For any image -->
+![image alt text]({{ site.url }}/assets/img/path_to_img/img.png)
+```
 
 
 

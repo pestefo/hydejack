@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Pablo Estefó
 menu: true
 order: 3
 ---
@@ -11,7 +11,7 @@ PhD Student at [Computer Science Department](http://dcc.uchile.cl) of the [Facul
 
 
 ### Research interests
-![400x200](http://pestefo.github.io/assets/img/world-cloud.png "World Cloud")
+![Research Interests]({{ site.url }}/assets/img/word-cloud.png)
 
 ### Publications
 
