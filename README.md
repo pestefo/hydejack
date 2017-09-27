@@ -6,7 +6,7 @@
 $ bundle exec jekyll serve
 ```
 
-## images
+## Images
 
 Images has to be placed in `assets/img/` and references like this:
 ```Markdown
@@ -15,7 +15,11 @@ Images has to be placed in `assets/img/` and references like this:
 <!-- For any image -->
 ![image alt text]({{ site.url }}/assets/img/path_to_img/img.png)
 ```
+To resize images just use simple html
 
+## Special condierations
+
+- Titles of post should not have quotation marks such as `'`or `"`. It makes an error to Disqus. Use `«»` instead.
 
 
 ---

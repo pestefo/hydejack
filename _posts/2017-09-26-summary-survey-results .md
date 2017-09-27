@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Survey on Collaboration and Package Reuse in ROS", Summary of Results'
+title: '«Survey on Collaboration and Package Reuse in ROS», Summary of Results'
 tags: [blog,survey,results,research,phd]
 comments: true
 author: pestefo
@@ -11,8 +11,6 @@ description: >
 
   We surveyed 127 ROS users and here you have a summary of what we found.
 ---
-
-<!-- # **"Survey on Collaboration and Package Reuse in ROS", Summary of Results** -->
 
 ## Context
 
