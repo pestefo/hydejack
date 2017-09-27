@@ -43,9 +43,7 @@ From these participants, around 73% has failed trying to reuse a 3rd party ROS p
 There are many reasons why this situation happens. From 10 different reasons provided, the three most common are:
 
 1. The package was for an outdated ROS distribution, 65% of participants
-
 2. The user could not figure out how to use it (lack of documentation), 53% of participants
-
 3. There was a bug that prevented the package from working properly, 47% of participants.
 
 As evidenced by the top reason picked by the participants, apparently there is a significant delay between ROS distribution updates and their implementation in packages by maintainers, meaning that this task is carried over to the users. The aforementioned reason and the third one raise the question about issues with the feedback dynamics from users to package maintainers, who seem not to realize that there are problems with their packages.
@@ -55,7 +53,6 @@ As evidenced by the top reason picked by the participants, apparently there is a
 Another phenomenon that we are interested in is *Package Abandonment*. These are packages that were released and stopped being updated at some point. This situation affects package users because abandoned packages are not usually compatible with newer versions of ROS. Users that may want to contribute fixes or updates cannot do so, since no one is maintaining the package.
 
 We ask the survey participants about the frequency with which  they experience this situation.An important number of the participants (65%)  indicated that they experienced this situation "Sometimes", “Very Often” or “All the time”. Around a 8% have never experienced this situation. Even though 1 out of 4 participants rarely found an abandoned package, we can conclude that it happens in practice.
-
 
 
 ![Q8. How often do you encounter the "Abandoned Package" phenomenon in practice?]({{ site.url }}/assets/posts/2017-09-26-summary-survey-results/Chart_Q8_170920.png)
