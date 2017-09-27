@@ -1,10 +1,12 @@
 ---
-layout: base
+layout: page
 title: Contact
 menu: true
 order: 3
 ---
+
 ### Pablo Estefó
+
 ```
 Departamento de Ciencias de la Computación
 Facultad de Ciencias Físicas y Matemáticas
@@ -18,6 +20,7 @@ PostCode  8370456
 
 
 ### E-mail
+
 ```
 pestefo at dcc . uchile dot cl
 ```
