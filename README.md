@@ -21,6 +21,8 @@ To resize images just use simple html
 
 - Titles of post should not have quotation marks such as `'`or `"`. It makes an error to Disqus. Use `«»` instead.
 
+## Useful websites
+- Real Favicon Generator: [https://realfavicongenerator.net](https://realfavicongenerator.net) is reeeeeally useful to make favicons from a squared image.
 
 ---
 ---
