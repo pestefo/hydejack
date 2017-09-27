@@ -27,7 +27,7 @@ author:
   email:             pestefo@gmail.com
 
 # Fallback image and color
-image:               /hydejack/assets/img/nap.jpg
+image:               /assets/img/sea.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
