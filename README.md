@@ -23,7 +23,7 @@ To resize images just use simple html
 
 ## Useful websites
 - Real Favicon Generator: [https://realfavicongenerator.net](https://realfavicongenerator.net) is reeeeeally useful to make favicons from a squared image.
-
+- JSON Resume [https://jsonresume.org/schema/](https://jsonresume.org/schema/)
 ---
 ---
 
