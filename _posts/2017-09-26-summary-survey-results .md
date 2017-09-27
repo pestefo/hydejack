@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Survey on Collaboration and Package Reuse in ROS", Summary of Results'
-tags: [survey,results,research,phd]
+tags: [blog,survey,results,research,phd]
 comments: true
 author: pestefo
 description: >
@@ -14,13 +14,13 @@ description: >
 
 <!-- # **"Survey on Collaboration and Package Reuse in ROS", Summary of Results** -->
 
-## **Context**
+## Context
 
 We are researching on the phenomenon of package reuse within the Robot Operating System (ROS) community and the collaboration dynamics of this community. We invited ROS users to answer a short survey to get insights on these topics.
 
 The questionnaire consisted of 22 questions (half of them were mandatory), with an average response time of 7 minutes. The questionnaire was available between August 8th and 29th, we got 127 responses (89.7% of them complete) from 23 different countries.
 
-## **Profile of the participants**
+## Profile of the participants
 
 Participants were profiled by their experiences using ROS (in years) and their personal opinion of their background in Software Engineer.
 
@@ -30,13 +30,14 @@ Participants were profiled by their experiences using ROS (in years) and their p
 
 The large majority (93%) of the participants indicate that they know what Software Engineering is. In fact, two thirds of the participants do have a Software Engineering background, among them a little more of the half has a strong background on the area. Regarding their experience using ROS, beginners (up to 1 year of experience) and intermediate users (more than a year and up to 3 years of experience) are represented in a similar proportion (29% and 31%). Although the proportion of advanced users is slightly bigger (40%).
 
-## **Reusing ROS packages**
+## Reusing ROS packages
 
 The reuse of ROS packages is one of our main interests on this survey.The large majority of our participants (93%) have had the experience of reusing a 3rd party ROS package, this means, a package that is maintained by the community.
 
 
 ![Q6. Have you tried reusing a 3rd party ROS package?]({{ site.url }}/assets/posts/2017-09-26-summary-survey-results/Chart_Q6_170918.png)
 
+#### Failing reusing ROS packages
 From these participants, around 73% has failed trying to reuse a 3rd party ROS package. These packages are shared and maintained by the community, but are later not  straightforward to reuse. In this context, the effort that the community commits to improve the software ecosystem is not being fully leveraged.
 
 ![Q9. Have you ever failed to reuse a 3rd party ROS package?]({{ site.url }}/assets/posts/2017-09-26-summary-survey-results/Chart_Q9_170920.png)
@@ -76,7 +77,7 @@ According to the results, a bit more than a half of our surveyed participants sa
 
 ![Q12. How often do you find ROS Bags in 3rd party ROS packages?]({{ site.url }}/assets/posts/2017-09-26-summary-survey-results/Chart_Q12_170920.png)
 
-[As discussed in ….](LINK) that the second most frequent reason why users fail at reusing packages is due to a lack of documentation: users can’t figure out how to use a package. We dug into this topic by asking what documentation is relevant when reusing 3rd party ROS packages and how relevant: highly relevant, relevant, somewhat relevant, hardly relevant and not relevant. We offered a pool of 8 kind of documentations to evaluate regarding: *general documentation*, *benchmarks*, *issue tracker information*, *API documentation*, *configuration guidelines*, *troubleshooting information* and *the robots in which a package has run* (and an option "*Other*").
+[As discussed before](#failing-reusing-ros-packages), the second most frequent reason why users fail at reusing packages is due to a lack of documentation: users can’t figure out how to use a package. We dug into this topic by asking what documentation is relevant when reusing 3rd party ROS packages and how relevant: highly relevant, relevant, somewhat relevant, hardly relevant and not relevant. We offered a pool of 8 kind of documentations to evaluate regarding: *general documentation*, *benchmarks*, *issue tracker information*, *API documentation*, *configuration guidelines*, *troubleshooting information* and *the robots in which a package has run* (and an option "*Other*").
 
 We found that "*General documentation about the purpose of the package and its features*", “*API documentation*” and “*Guidelines for configuring the package launch files*” are a **“must”**: 88%, 82%, 82% (respectively) of participants think that these are “Relevant” or “Highly Relevant”. Moreover, “*Troubleshooting experiences from other users*” and “Issue tracker information” are **“desirable”** documentation: 88% and 83% of participants think that they are “Somewhat Relevant”, “Relevant” or “Highly Relevant“.
 
