@@ -16,9 +16,6 @@ Chile
 PostCode  8370456
 ```
 
-Hi there, I'm a PhD Student in Computer Science at [Computer Science Department](http://dcc.uchile.cl) of the [Faculty of Physics and Mathematics](http://ingenieria.uchile.cl/), [University of Chile](http://www.uchile.cl).
-
-
 
 ### E-mail
 ```
