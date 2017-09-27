@@ -105,4 +105,4 @@ Our participants, as users, do contribute and in different ways. Those contribut
 *Would you like to complement some of the results found?*
 *Do you have a different opinion of the results? Any other question?*
 
-Don’t hesitate to comment in below or sending me an email to pestefo@gmail.com.
+Don’t hesitate to comment in below or sending me an email to pestefo@dcc.uchile.cl .

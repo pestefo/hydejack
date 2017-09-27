@@ -22,7 +22,7 @@ PostCode  8370456
 ### E-mail
 
 ```
-pestefo at dcc . uchile dot cl
+pestefo at dcc dot uchile dot cl
 ```
 
 <!-- ### Others
