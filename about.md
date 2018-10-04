@@ -19,7 +19,7 @@ My first approximation to software engineering for robotics was in 2014 in a 6-m
 Back in Chile and after winning the Beca de Doctorado Nacional from [CONICYT](http://www.conicyt.cl), I started my PhD in Computer Science under supervision of Prof. Dr. [Johan Fabry](https://pleiad.cl/people/jfabry) and Prof. Dr. [Romain Robbes](https://www.inf.unibz.it/~rrobbes/) as my co-advisor. I became the administrator of the [PR2 robot](http://www.willowgarage.com/pages/pr2/overview) and worked mainly on [code duplication of ROS artifacts](http://ieeexplore.ieee.org/document/7416575/).
 I am currently under the supervision of the Prof. Dr. [Jocelyn Simmonds](https://users.dcc.uchile.cl/~jsimmond/) and Prof. Dr. Romain Robbes. Nowadays I'm working on strategies for assuring minimal the maintenance of ROS packages that were abandoned by their maintainers.
 
-
+ 
 
 ### Research interests
 
